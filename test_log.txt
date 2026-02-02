@@ -1,0 +1,6 @@
+[INFO] Running unit tests...
+[PASS] test_rate_rules
+[FAIL] test_webhook_retry AssertionError: expected 3 retries
+[ERROR] test_expedia_ari_timeout TimeoutError: partner response > 2s
+[INFO] Integration tests...
+[FAIL] test_reservation_flow Exception: null pointer in mapping layer

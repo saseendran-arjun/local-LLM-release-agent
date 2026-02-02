@@ -1,0 +1,7 @@
+Goal: Prepare release 1.4.2 for Channel Manager Direct.
+Scope:
+- update ARI message handling for partner Expedia
+- bugfix: reservation webhook retries
+Constraints:
+- must pass unit + integration tests
+- produce a short release note
